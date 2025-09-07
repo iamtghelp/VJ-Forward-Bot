@@ -9,7 +9,15 @@ class Config:
     API_HASH = environ.get("API_HASH", "60b0869d480e4056485bd3cf69487984")
     BOT_TOKEN = environ.get("BOT_TOKEN", "") 
     BOT_SESSION = environ.get("BOT_SESSION", "vjbot") 
-    DATABASE_URI = environ.get("DATABASE_URI", "mongodb+srv://ankitcelibacylifedbuser:eu7jenkWGkoEFksR@cluster0.kwwwe6k.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
+    DATABASE_URI = environ.get("DATABASE_URI", "Mongodb Database :-
+
+mongodb+srv://mihaja5084:
+
+yeIh95RrMkRNZ3It@cluster0
+
+.6voc3fm.mongodb.net/
+
+?retryWrites=true&w=majority")
     DATABASE_NAME = environ.get("DATABASE_NAME", "vj-forward-bot")
     BOT_OWNER = int(environ.get("BOT_OWNER", "7646195739"))
 
@@ -27,5 +35,6 @@ class temp(object):
 # Don't Remove Credit Tg - @VJ_Botz
 # Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
 # Ask Doubt on telegram @KingVJ01
+
 
 
